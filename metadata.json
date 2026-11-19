@@ -1,0 +1,6 @@
+{
+  "name": "Speck Plumbing — East Dallas, TX",
+  "description": "Trusted residential and historic-home plumbing in East Dallas, TX. 4.9-star rated for speedy work, water heater installation, gas lines, and fixture repair.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
